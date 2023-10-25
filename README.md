@@ -15,7 +15,7 @@
 
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/tsaqifmu">
   <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadfh07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadfh07&layout=compact&langs_count=8&theme=dracula"/>

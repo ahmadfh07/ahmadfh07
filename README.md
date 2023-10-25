@@ -1,5 +1,5 @@
 ### Hi there 👋
-![ahmadfh07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadfh07&show_icons=true&theme=dracula)
+![ahmadfh07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadfh07&show_icons=true&theme=dracula&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 <!--
 **ahmadfh07/ahmadfh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

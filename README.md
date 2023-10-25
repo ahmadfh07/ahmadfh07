@@ -16,7 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadfh07&repo=iot-monitoring-kulitas-air&theme=calm)](https://github.com/ahmadfh07/iot-monitoring-kulitas-air)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadfh07&repo=fp-rpl&theme=calm)](https://github.com/ahmadfh07/fp-rpl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadfh07&repo=WebOfThings3DB&theme=calm)](https://github.com/ahmadfh07/WebOfThings3DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmadfh07&repo=WebOfThings3DB&theme=calm)](https://github.com/ahmadfh07/WebOfThings3DB)
 <!---### Hi there 👋-->
 <!--
 **ahmadfh07/ahmadfh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
